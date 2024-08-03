@@ -21,7 +21,7 @@
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
 * [FreeCourseSite](https://freecoursesite.com/)
-* The F Squad : [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialseu.com/)
+* The F Squad : [FCO](https://www.freecoursesonline.me/)
 * CourseForFree : [1](https://courseforfree.com/) - [2](https://courseforfree.net/)
 * [Udemy 24](https://udemy24.com/)
 * [FreeTuts](https://freetutsdownload.com/)
