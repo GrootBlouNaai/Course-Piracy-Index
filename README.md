@@ -31,8 +31,6 @@
 * [Tut4DL](https://tut4dl.com/)
 * [ScanLibs](https://scanlibs.com/category/video/) (Premium Hosts)
 * [OnlineCourseBay](https://onlinecoursebay.com/)
-* [FreeTutorials-us](https://freetutorials-us.com/)
-* [TuTCourse](https://tutcourse.com/)
 * [FreeEducationWeb](https://freeeducationweb.com/)
 * [FreeCourseWebsite](https://freecoursewebsite.com/)
 * TutsGalaxy : [1](https://tutsgalaxy.net/) - [2](https://tutsgalaxy.org/)
