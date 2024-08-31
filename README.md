@@ -32,7 +32,6 @@
 * [ScanLibs](https://scanlibs.com/category/video/) (Premium Hosts)
 * [OnlineCourseBay](https://onlinecoursebay.com/)
 * [FreeEducationWeb](https://freeeducationweb.com/)
-* [FreeCourseWebsite](https://freecoursewebsite.com/)
 * TutsGalaxy : [1](https://tutsgalaxy.net/) - [2](https://tutsgalaxy.org/)
 * [DownloadFreeCourse](https://downloadfreecourse.com/)
 * [Game Of Courses](https://gameofcourses.com/)
