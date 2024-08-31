@@ -29,7 +29,7 @@
 * [OnlineFreeCourse](https://www.onlinefreecourse.net/)
 * [TutsNode](https://tutsnode.com/)
 * [Tut4DL](https://tut4dl.com/)
-* [ScanLibs](https://scanlibs.com/category/video/)
+* [ScanLibs](https://scanlibs.com/category/video/) (Premium Hosts)
 * [OnlineCourseBay](https://onlinecoursebay.com/)
 * [FreeTutorials-us](https://freetutorials-us.com/)
 * [TuTCourse](https://tutcourse.com/)
