@@ -1,4 +1,5 @@
 ![CoursePiracy](https://user-images.githubusercontent.com/76810020/119037918-75fc9b00-b9aa-11eb-9b53-d82b856c5bc6.png)
+
 <div align="center">
 </div>
 <div align="center">
@@ -6,7 +7,6 @@
 </div>
 
 ## 🗃 Contents
-
 - [Piracy Sites](#-piracy-sites)
     - [Misc](#-misc)
 - [Discount Sites](#-discount-sites)
@@ -58,6 +58,8 @@
 * [NetMan24](https://netman24.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%86%db%8c%da%a9/)
 * [Downloadr](https://downloadr.in/)
 * [Coursed](https://coursed.co/)
+
+
 * [Millionon Courses](http://milliononpcgames.com/)
 * [Technozune](http://technozune.com/)
     ## [↑](#contents) Misc
@@ -108,6 +110,7 @@
 
 ## [↑](#contents) Find Courses
 
+* [bestcourses](https://bestcourses.io/)
 * [My Mooc](https://www.my-mooc.com/en/)
 * [MOOC List](https://www.mooc-list.com/)
 * [Class Central](https://www.classcentral.com/)
@@ -143,6 +146,8 @@
 * [Lynda](https://www.lynda.com/) ([LinkedIn Learning 😒](https://www.linkedin.com/learning/))
 * [FutureLearn](https://www.futurelearn.com/)
 * [DataCamp](https://www.datacamp.com/)
+* [Dataquest](https://www.dataquest.io/)
+* [365 Data Science](https://365datascience.com/)
 * [Domestika](https://www.domestika.org/)
 * [CLASS101](https://class101.co/)
 * [educative](https://www.educative.io/)
@@ -154,26 +159,26 @@
 * [MasterClass](https://www.masterclass.com/)
 * [CreativeLive](https://www.creativelive.com/)
 * [IBM Training](https://www.ibm.com/training/)
-    ## [↑](#contents) Fully Free
-    * [FreeCodeCamp](https://www.freecodecamp.org/)
-    * [OSSU](https://ossu.firebaseapp.com/)
-    * [The Odin Project](https://www.theodinproject.com/)
-    * [Programiz](https://www.programiz.com/)
-    * [DevTube](https://dev.tube/)
-    * [Khan Academy](https://www.khanacademy.org/)
-    * [Neso Academy](https://www.nesoacademy.org/)
-    * [Free4arab](https://free4arab.net/)
-    * [OpenLearn](https://www.open.edu/openlearn/)
-    * [Open Culture](https://www.openculture.com/freeonlinecourses)
-    * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses)
-    * [UdemyFreeCourses](https://udemyfreecourses.org/)
-    * [SkillUp by Simplilearn](https://www.simplilearn.com/skillup-free-online-courses)
-    * [CognitiveClass](https://cognitiveclass.ai/)
-    * [2uts](https://2uts.com/) - [DevTube](https://dev.tube/)
-    * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-    * [AWS Training](https://www.aws.training/)
-    * [Oracle University](https://education.oracle.com/)
-    * [IBM Digital Nation](https://developer.ibm.com/digitalnation/)
+  ## [↑](#contents) Fully Free
+  * [FreeCodeCamp](https://www.freecodecamp.org/)
+  * [OSSU](https://ossu.firebaseapp.com/)
+  * [The Odin Project](https://www.theodinproject.com/)
+  * [Programiz](https://www.programiz.com/)
+  * [DevTube](https://dev.tube/)
+  * [Khan Academy](https://www.khanacademy.org/)
+  * [Neso Academy](https://www.nesoacademy.org/)
+  * [Free4arab](https://free4arab.net/)
+  * [OpenLearn](https://www.open.edu/openlearn/)
+  * [Open Culture](https://www.openculture.com/freeonlinecourses)
+  * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses)
+  * [UdemyFreeCourses](https://udemyfreecourses.org/)
+  * [SkillUp by Simplilearn](https://www.simplilearn.com/skillup-free-online-courses)
+  * [CognitiveClass](https://cognitiveclass.ai/)
+  * [2uts](https://2uts.com/) - [DevTube](https://dev.tube/)
+  * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+  * [AWS Training](https://www.aws.training/)
+  * [Oracle University](https://education.oracle.com/)
+  * [IBM Digital Nation](https://developer.ibm.com/digitalnation/)
 
 ## [↑](#contents) Project Guide
 * [CODEWITHC](https://www.codewithc.com/)
