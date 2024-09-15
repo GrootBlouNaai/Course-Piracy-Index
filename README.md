@@ -3,18 +3,18 @@
 <div align="center">
 </div>
 <div align="center">
-  	<b>👉 <a href="https://github.com/ItIsMeCall911/Course-Piracy-Index/pulls">Feel Free To Contribute</a> 👈</b>
+  	<b>👉 <a href="https://github.com/MohaiminulEraj/Course-Piracy-Index/pulls">Feel Free To Contribute</a> 👈</b>
 </div>
 
 ## 🗃 Contents
-
-* [Piracy Sites](#-piracy-sites)
-  * [Misc](#-misc)
-* [Discount Sites](#-discount-sites)
-* [Find Courses](#-find-courses)
-* [Platforms](#-platforms)
-  * [Fully Free](#-fully-free)
-* [Tools](#-tools)
+- [Piracy Sites](#-piracy-sites)
+    - [Misc](#-misc)
+- [Discount Sites](#-discount-sites)
+- [Find Courses](#-find-courses)
+- [Platforms](#-platforms)
+    - [Fully Free](#-fully-free) 
+- [Project Guide](#-project-guide)
+- [Tools](#-tools)
 
 ## [↑](#contents) Piracy Sites
 
@@ -24,7 +24,7 @@
 * [CourseUpload](https://courseupload.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
 * [FreeCourseSite](https://freecoursesite.com/)
-* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
+* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/) - [FTH](http://freetutorialshub.com/) - [HTF](https://www.howtofree.org/)
 * CourseForFree : [1](https://courseforfree.com/) - [2](https://courseforfree.net/)
 * [Udemy 24](https://udemy24.com/)
 * [FreeTuts](https://freetutsdownload.net/)
@@ -58,26 +58,30 @@
 * [NetMan24](https://netman24.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%86%db%8c%da%a9/)
 * [Downloadr](https://downloadr.in/)
 * [Coursed](https://coursed.co/)
-  ## [↑](#contents) Misc
-  * [Freesoff](https://freesoff.com/)
-  * [Download Pirate](https://www.downloadpirate.com/tutorials/)
-  * [Hacksnation](https://hacksnation.com/t/free-courses)
-  * [Grafamania](http://www.grafamania.net/tutorials/)
-  * [downTURK](https://downturk.net/learning/elearning/)
-  * [3Dcu](https://3dcu.com/tutorials/)
-  * [ReleaseHive](https://releasehive.com/tutorials/)
-  * [VFXDownload](https://vfxdownload.net/free-courses/)
-  * [AVAXGFX](https://avaxgfx.com/video_tutorials/)
-  * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials) - [Forum](https://forum.gfxdomain.net/forums/tutorials-releases.34/)
-  * [CG Persia](https://cgpersia.com/category/download/learning)
-  * [GFX-HUB](https://gfx-hub.net/tutorials/)
-  * [Grafixfather](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
-  * [GFXDrug](https://gfxdrug.com/premium-courses-free/)
-  - [بیت دانلود](http://bitdownload.ir/learning/)
-  * Downloadly : [1](https://downloadly.net/) - [2](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to Bypass Geo-blocking)
-  * [Downloadha](https://www.downloadha.com/category/multimedia-2/%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c/) (Scroll Down)
-  * [MixWayz](https://mixwayz.com/)
-  * [CertCommunity](https://www.certcommunity.org/forum/)
+
+
+* [Millionon Courses](http://milliononpcgames.com/)
+* [Technozune](http://technozune.com/)
+    ## [↑](#contents) Misc
+    * [Freesoff](https://freesoff.com/)
+    * [Download Pirate](https://www.downloadpirate.com/tutorials/)
+    * [Hacksnation](https://hacksnation.com/t/free-courses)
+    * [Grafamania](http://www.grafamania.net/tutorials/)
+    * [downTURK](https://downturk.net/learning/elearning/)
+    * [3Dcu](https://3dcu.com/tutorials/)
+    * [ReleaseHive](https://releasehive.com/tutorials/)
+    * [VFXDownload](https://vfxdownload.net/free-courses/)
+    * [AVAXGFX](https://avaxgfx.com/video_tutorials/)
+    * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials) - [Forum](https://forum.gfxdomain.net/forums/tutorials-releases.34/)
+    * [CG Persia](https://cgpersia.com/category/download/learning)
+    * [GFX-HUB](https://gfx-hub.net/tutorials/)
+    * [Grafixfather](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
+    * [GFXDrug](https://gfxdrug.com/premium-courses-free/)
+    * [بیت دانلود](http://bitdownload.ir/learning/)
+    * Downloadly : [1](https://downloadly.net/) - [2](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to Bypass Geo-blocking)
+    * [Downloadha](https://www.downloadha.com/category/multimedia-2/%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c/) (Scroll Down)
+    * [MixWayz](https://mixwayz.com/)
+    * [CertCommunity](https://www.certcommunity.org/forum/)
 
 ## [↑](#contents) Discount Sites
 
@@ -128,6 +132,8 @@
 * [Hackr.io](https://hackr.io/)
 * [MadBright](https://madbright.com/)
 * [Elektev](https://elektev.com/)
+* [Coursenator](https://www.coursenator.com/)
+* [SmartyBro](https://smartybro.com/)
 
 ## [↑](#contents) Platforms
 
@@ -174,6 +180,10 @@
   * [Oracle University](https://education.oracle.com/)
   * [IBM Digital Nation](https://developer.ibm.com/digitalnation/)
 
+## [↑](#contents) Project Guide
+* [CODEWITHC](https://www.codewithc.com/)
+* [StudentProjects](https://studentprojectguide.com/)
+* [Kashipara](https://www.kashipara.com/)
 ## [↑](#contents) Tools
 
 * Pluralsight Downloader : [phuonghd](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI) - [ikeboy](https://github.com/ikeboy/pluralsight-scraper)
