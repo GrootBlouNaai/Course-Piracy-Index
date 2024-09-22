@@ -37,6 +37,7 @@
 * [Game Of Courses](https://gameofcourses.com/)
 * [5GGYAN](https://www.5ggyan.com/)
 * [Taknet24](https://technet24.ir/category/videos)
+* [Downloadly.net](https://downloadlynet.ir/topics/video-tutorials/)
 
     ## [↑](#contents) Misc
     * [Download Pirate](https://www.downloadpirate.com/tutorial-d/)
