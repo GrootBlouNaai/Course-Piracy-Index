@@ -17,7 +17,7 @@
 
 ## [↑](#contents) Piracy Sites
 
-* [Online-Courses.Club](https://online-courses.club/)
+* [Online-Courses.Club](https://online-courses.club/) |Graphics and Game Dev|
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
 * [FreeCourseSite](https://freecoursesite.com/)
