@@ -29,7 +29,7 @@
 * [OnlineFreeCourse](https://www.onlinefreecourse.net/)
 * [TutsNode](https://tutsnode.com/)
 * [Tut4DL/Tut4IT](https://tut4dl.com/)⭐
-* [ScanLibs](https://scanlibs.com/category/video/) (Premium Hosts)
+* [ScanLibs](https://scanlibs.com/category/video/) (Premium Hosts 💩)
 * [OnlineCourseBay](https://onlinecoursebay.com/)
 * [FreeEducationWeb](https://freeeducationweb.com/)
 * TutsGalaxy : [1](https://tutsgalaxy.net/) - [2](https://tutsgalaxy.org/)
@@ -39,6 +39,8 @@
 * [Taknet24](https://technet24.ir/category/videos)
 
     ## [↑](#contents) Misc
+    * [Dirtywarez](https://forum.dirtywarez.com/forums/tutorials.107/)
+    * [Softarchive](https://sanet.st/video-courses/) (Premium Hosts 💩)
     * [Download Pirate](https://www.downloadpirate.com/tutorial-d/)
     * [Hacksnation](https://hacksnation.com/t/course)
     * [downTURK](https://downturk.net/learning/elearning/)
